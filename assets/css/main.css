@@ -1,0 +1,56 @@
+
+/** Header **/
+.logo img {
+    max-height: 26px;
+}
+.spacer {
+    margin-bottom: 60px;
+}
+.navbar {
+    text-transform: uppercase;
+    border-top: yellow 5px solid;
+    font-size: 15px;
+}
+.navbar-nav>li>a {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.navbar-nav>li>a.active {
+    background-color: #e7e7e7;
+}
+.navbar-right>li>a:hover {
+    background-color: #e7e7e7 !important;   
+}
+
+
+/** General CSS **/
+.pt {
+    padding-top: 15px; 
+}
+.pb {
+    padding-bottom: 15px; 
+}
+.bpt {
+    padding-top: 45px;
+}
+.bpb {
+    padding-bottom: 45px; 
+}
+.mt {
+    margin-top: 15px; 
+}
+.mb {
+    margin-bottom: 15px; 
+}
+.bmt {
+    margin-top: 45px; 
+}
+.bmb {
+    margin-bottom: 45px;
+}
+
+/** Footer **/ 
+.footer {
+    background-color: black; 
+    color: grey;
+}

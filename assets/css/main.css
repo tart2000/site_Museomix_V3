@@ -48,6 +48,9 @@
 .bmb {
     margin-bottom: 45px;
 }
+.center {
+    text-align: center;
+}
 
 /** Footer **/ 
 .footer {

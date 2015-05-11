@@ -3,11 +3,15 @@
     <div class="row">
         <?php foreach (page('editions')->children()->children() as $ed) : ?>
         <div class="col-sm-4">
-            <a href="<?php echo $ed->url() ?>">
-                <img src="<?php echo $ed->images()->first()->url() ?>" class="img-responsive"> 
-                <?php echo $ed->title() ?> - <?php echo $ed->museum() ?>
-                <em><?php echo $ed->nbparticipants() ?> participants</em>
-            </a>
+            <div class="card">
+                <a href="<?php echo $ed->url() ?>">
+                    <img src="<?php echo $ed->images()->first()->url() ?>" class="img-responsive"> 
+                </a>
+                <div class="card-text">
+                    <a href="<?php echo $ed->url() ?>"><h4><?php echo $ed->title() ?> - <?php echo $ed->museum() ?></h4></a>
+                    <em><?php echo $ed->nbparticipants() ?> participants</em>
+                </div>
+            </div>
         </div>
         <?php endforeach ?>
     </div>

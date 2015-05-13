@@ -50,6 +50,34 @@
 .center {
     text-align: center;
 }
+.right {
+    position: absolute;
+    right: 25px;
+    text-align: right;
+}
+.register {
+    float: right;
+    position: relative;
+    top: -3px;
+}
+h1 {
+    font-weight: 400;
+}
+h3 {
+    font-weight: 300;
+}
+/** CTA **/
+.cta {
+    padding: 20px;
+    border-left: yellow solid 4px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #FAFAFA;
+}
+.cta h3 {
+    padding-top: 0px;
+    margin: 0px;
+}
 
 /** Cards **/
 .card {
@@ -57,10 +85,25 @@
     border-radius: 6px; 
     overflow: hidden;
 }
+.card-title {
+    background-color: yellow;
+    padding-right: 10px; 
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
 .card-text {
     padding-right: 10px; 
     padding-left: 10px;
     padding-bottom: 5px;
+}
+.edition-title {
+    position: absolute;
+    top: 20px;
+    left: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: yellow;
 }
 
 /** Footer **/ 

@@ -1,0 +1,13 @@
+Title: Museomix Ouest
+
+----
+
+museum: Musée d'Histoire naturelle de Nantes
+
+----
+
+nbparticipants: 72
+
+----
+
+Text: 

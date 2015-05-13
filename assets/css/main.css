@@ -84,6 +84,8 @@ h3 {
     border: #efefef solid 1px;
     border-radius: 6px; 
     overflow: hidden;
+    margin-bottom: 15px;
+    min-height: 325px;
 }
 .card-title {
     background-color: yellow;

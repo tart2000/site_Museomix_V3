@@ -1,0 +1,13 @@
+Title: Museomix Nord
+
+----
+
+museum: Musée d'histoire et de géologie de Lille
+
+----
+
+nbparticipants: 72
+
+----
+
+Text: 

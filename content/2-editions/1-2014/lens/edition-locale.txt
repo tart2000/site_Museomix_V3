@@ -1,0 +1,13 @@
+Title: Museomix Nord
+
+----
+
+museum: Louvre Lens
+
+----
+
+nbparticipants: 72
+
+----
+
+Text: 

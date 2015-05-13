@@ -1,0 +1,13 @@
+Title: Museomix RA
+
+----
+
+museum: Musée d'art et d'industrie de St Etienne
+
+----
+
+nbparticipants: 72
+
+----
+
+Text: 
